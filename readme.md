@@ -6,4 +6,8 @@ The best ways are:
 -Code
 -Repeat    
   	
+Thank You!
+
+##Summary 
+Its a nice repo
       
