@@ -1,7 +1,7 @@
-#best git-hub repo out there
-this is readme
+#Best Git-Hub repo out there
+This is readme
 The best ways are:
--EAT
--SLEEP
--REPEAT
--CODE
+-Eat
+-Sleep
+-Code
+-Repeat
