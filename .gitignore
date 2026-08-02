@@ -3,4 +3,3 @@ passwords.txt
 *.log
 node_modules/
 !important.log
-about.html
